@@ -126,7 +126,9 @@ https://escalla.co.uk/blog-remote-working-5-benefits-challenges/
 3. Briefly review the strategy document.
 4. Scan the values section. Is there anything surprising, or something you (dis)agree with?
 
+
 <!--
+TODO: summarize the size and significance of the handbook (11,000 pages, 90,000 commits, 70,000 links, ...)
 
 Open-source organizing principles
 TBD: which aspects should not be disclosed publicly?

@@ -597,6 +597,8 @@ How do we treat messengers, voice mail, files on your harddrive, links in your b
 
 
 <!--
+TODO : footnote: different lists (projects, someday maybe, tickler, next action, calls-to-make, things-to-read, waiting)
+
 process model...
 
 Different lists/elements of the system
@@ -623,6 +625,10 @@ Lists:
 	2. Time available
 	3. Energy available
 	4. Priority
+
+<!--
+TODO : emergent/situative: do not add tasks to the calendar, consider priority as the last criterion (counterintuitive)
+-->
 
 - Regularly review the system (weekly, monthly, annual), and priorities, based on different horizons of focus:
 	- Projects

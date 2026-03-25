@@ -36,6 +36,82 @@ Read the case of Choudhury et al. (2020) and answer the following questions:
 
 ---
 
+# Coordination
+
+"Coordination is managing dependencies between activities" (Malone and Crowston, 1994)
+
+<!-- "Civilization advances by extending the number of important operations which we can perform without thinking about them" (Whitehead, 1911) -->
+
+- stigmergy
+- calendly
+
+<!-- 
+🔍 What Digital Coordination Encompasses
+Digital coordination includes:
+
+Task allocation: Assigning roles and responsibilities.
+
+Temporal coordination: Synchronizing activities in time.
+
+Information sharing: Ensuring access to timely and relevant data.
+
+Workflow orchestration: Structuring the order and logic of actions across actors or systems.
+
+Standardization vs. improvisation: Balancing formal rules with situated judgment.
+
+Boundary-spanning communication: Bridging diverse teams, systems, or contexts.
+
+Coordination artifacts: Use of digital tools like shared dashboards, workflow software, or version control systems.
+
+In platform-based or algorithmically mediated work (e.g., gig work, open-source platforms, or AI-enabled environments), coordination becomes increasingly digitally embedded in infrastructure and delegated to algorithms or code.
+
+📚 Prominent Theories in IS and Related Fields
+1. Coordination Theory (Malone & Crowston, 1994)
+Definition: Coordination is managing dependencies between activities.
+
+Key idea: Focuses on identifying and categorizing types of dependencies (e.g., prerequisite, shared resource, simultaneity) and coordination mechanisms (e.g., scheduling, communication protocols).
+
+Use in IS: Commonly used to analyze business processes, workflow systems, and software development coordination.
+
+2. Orchestration and Modularity (in Platforms)
+Platform ecosystems often rely on modular architectures and orchestrators that coordinate complementors.
+
+Digital coordination is handled through APIs, standards, governance mechanisms, and boundary resources.
+
+3. Sociotechnical Systems Theory
+Emphasizes the mutual shaping of social and technical aspects in organizing coordination (e.g., joint optimization of tools and teamwork).
+
+Important in understanding work system design and collaborative technologies.
+
+4. Coordination through Artifacts (Schmidt & Wagner, 2002)
+Draws from CSCW and practice theory to study how digital artifacts (e.g., shared documents, code repositories) mediate coordination.
+
+Highlights emergent, negotiated coordination in knowledge work settings.
+
+5. Temporal Coordination Theories
+E.g., Orlikowski & Yates (2002) on temporal structuring and calendars in distributed teams.
+
+Looks at rhythms, cycles, and routines in digitally mediated work.
+
+6. Algorithmic Coordination / Algorithmic Management
+Newer stream focusing on how algorithms structure and control work coordination (e.g., in gig platforms or call centers).
+
+Tensions around visibility, control, and autonomy (e.g., Kellogg et al., 2020).
+
+🧭 Emerging Themes
+Coordination as embedded in infrastructure: Especially in digital platforms and open-source.
+
+Coordination in distributed and hybrid teams: With increasing reliance on digital traces and tools.
+
+AI and Coordination: How agents/bots participate in or mediate coordination.
+
+Ethical and power dynamics: Around who controls coordination and with what visibility.
+
+
+ -->
+
+---
+
 # Communication and media selection
 
 Key question: which communication media are the most effective ones, or should be selected for a task at hand?
@@ -85,6 +161,10 @@ https://is.theorizeit.org/wiki/Media_synchronicity_theory
 4. Take a minute to review the features offered by the [Zoom AI assistant](https://www.zoom.com/en/products/collaboration-tools/features/). How do they relate to MST?
 5. Consider a setting in which you would like to help your colleague with a challenging programming task. Your colleague works remotely. Which technologies would you select, and how could your choice be connected to MST?
 
+<!--
+-> TODO : extract in a (jupyter?) notebook? (short video demos, including a shared coding session)
+-->
+
 ---
 
 # Communication and situational awareness
@@ -111,6 +191,11 @@ Examples of situational awareness in practice:
 - "At what times do you focus, at what times are you available for calls?"
 - "Are you green?"
 - "You have been quiet. What is your view on the issue?"
+
+<!--
+TODO : how can digital technology become more situationally aware (Benlian)
+-->
+
 
 ---
 

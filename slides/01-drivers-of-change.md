@@ -224,6 +224,13 @@ So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work Yo
 - Rule 3: Turn down a promotion to take control.
 - Rule 4: Think small, act big.
 
+<!--
+TODO: replace by specific summary/illustration based on the video:
+
+- illustrate argument: work -> passion
+- list deep-work principles 
+-->>
+
 > 🔗 A recording of the talk is available [here](https://www.youtube.com/watch?v=IIMu1PGbG-0).
 
 ---

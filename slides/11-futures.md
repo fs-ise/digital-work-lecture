@@ -336,6 +336,12 @@ Malcolm Gladwell: Journalist and NYT best-selling author
 <!-- 
 Grant: influential management thinker, youngest tenured professor at Wharton, 4x Org science, Books, 7x best professor at Wharton (by students)....
 Gladwell: Journalist with honorary doctorates and best-sellers: outliers was nr1 on the NYT best seller list for three months
+
+---
+
+# Summary
+
+TODO
 -->
 
 ---
