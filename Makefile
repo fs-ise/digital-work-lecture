@@ -41,3 +41,17 @@ exercises: $(EXERCISE_HTML)
 		--to html5 \
 		--template=/assets/exercise-template.html \
 		--output=/data/$@ /data/$<
+
+lecture_slides_pptx: $(addprefix output/,$(addsuffix .pptx,$(SLIDES_LIST)))
+
+output/%.pptx: slides/%.md assets/template/theme.css
+	docker run --rm --init \
+		-v "$(PWD)":/home/marp/app/ \
+		-e LANG=$(LANG) \
+		-e MARP_USER="$(UID):$(GID)" \
+		marpteam/marp-cli:v3.4.0 \
+		/home/marp/app/$< \
+		--theme-set /home/marp/app/assets/template/theme.css \
+		--pptx \
+		--allow-local-files \
+		-o /home/marp/app/$@
